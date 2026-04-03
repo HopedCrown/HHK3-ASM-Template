@@ -1,5 +1,5 @@
-# HHK3template
-A modern template for HHK3!
+# HHK3-ASM-Template
+A modern template for HHK3 Assembly!
 
 Checkout the other branches for more variants.
 
